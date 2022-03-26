@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">DoreNote</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="txt_hi">Xin chào</string>
+    <string name="txt_what">Kế hoạch của bạn là gì?</string>
+    <string name="txt_default">Đây là chữ</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_main3">MainActivity3</string>
+    <string name="txt_upcoming">Kế hoạch sắp tới</string>
+    <string name="due">Kế hoạch bỏ lỡ</string>
+    <string name="note">Ghi chú</string>
+    <string name="his">Lịch sử</string>
+</resources>
